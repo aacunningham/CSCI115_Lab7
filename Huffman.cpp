@@ -66,7 +66,7 @@ void IntlNode<T>::setLeft (HuffNode<T>* b) {
 
 template <typename T>
 HuffNode<T>* IntlNode<T>::right () const {
-    return rc; // You had it as lc before. I'd imagine it should be rc ;)
+    return rc;
 }
 
 template <typename T>
