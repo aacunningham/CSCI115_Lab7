@@ -75,6 +75,6 @@ public:
 HuffTree<char>* buildHuff (HuffTree<char>** TreeArray, int count);
 
 
-#include "Huffman.cpp"
+#include "Huffman.tpp"
 
 #endif

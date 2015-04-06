@@ -4,18 +4,12 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../Huffman.cpp \
-../heap.cpp \
 ../main.cpp 
 
 OBJS += \
-./Huffman.o \
-./heap.o \
 ./main.o 
 
 CPP_DEPS += \
-./Huffman.d \
-./heap.d \
 ./main.d 
 
 

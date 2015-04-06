@@ -56,6 +56,6 @@ public:
     T remove (int pos);
 };
 
-#include "heap.cpp"
+#include "heap.tpp"
 
 #endif
